@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfun_with_fungi=self.webpackChunkfun_with_fungi||[]).push([[121],{8070:u=>{u.exports=[]}}]);

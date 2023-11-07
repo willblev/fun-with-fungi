@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Fun with Fungi Blog</title>
+        <link>https://willblev.github.io/fun-with-fungi/blog</link>
+        <description>Fun with Fungi Blog</description>
+        <lastBuildDate>Tue, 24 Oct 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Example Blog Post]]></title>
+            <link>https://willblev.github.io/fun-with-fungi/blog/example-blog-post</link>
+            <guid>example-blog-post</guid>
+            <pubDate>Tue, 24 Oct 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is the summary of a very example blog post,]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to Our Website]]></title>
+            <link>https://willblev.github.io/fun-with-fungi/blog/2023/10/21/welcome</link>
+            <guid>Welcome to Our Website</guid>
+            <pubDate>Tue, 24 Oct 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to our website. We are delighted to share our latest updates and information with you.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[MDX Blog Post]]></title>
+            <link>https://willblev.github.io/fun-with-fungi/blog/mdx-blog-post</link>
+            <guid>mdx-blog-post</guid>
+            <pubDate>Sun, 24 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Blog posts support MDX]]></description>
+        </item>
+    </channel>
+</rss>

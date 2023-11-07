@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfun_with_fungi=self.webpackChunkfun_with_fungi||[]).push([[277],{9426:e=>{e.exports=JSON.parse('{"permalink":"/fun-with-fungi/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

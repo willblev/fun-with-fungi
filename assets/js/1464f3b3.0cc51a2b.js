@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfun_with_fungi=self.webpackChunkfun_with_fungi||[]).push([[577],{4368:(e,t,u)=>{u.r(t),u.d(t,{default:()=>l});var n=u(7294);const l=function(){return n.createElement("div",null,n.createElement("h1",null,"Welcome to the Custom Page"),n.createElement("p",null,"This is a special page I've added to my Docusaurus site."))}}}]);
