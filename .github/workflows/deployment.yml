@@ -5,6 +5,9 @@ on:
     branches:
       - main  # Set this to the branch you want to deploy from
 
+permissions: # Add this line and the next one to set the permissions
+  contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
