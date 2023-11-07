@@ -2,7 +2,7 @@
 We are going to try to develop and document a minimalist protocol for growing edible mushroom species (such as oyster mushrooms) using recycled materials  such as biowaste from local coffee shops and craft beer breweries as the fruiting substrate. 
 
 ## Documentation
-For the project documentation, the docosaurus framework is used.
+For the project documentation, the docosaurus framework is used. The website is automatically built upon every push to master. The following describes the manual build process.
 ### Installation
 To install the documentation system, simply execute the following command.
 ```
