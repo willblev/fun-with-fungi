@@ -1,0 +1,28 @@
+/* styles.module.css */
+
+.heroBanner {
+    padding: 4rem 0;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(to bottom, rgba(56, 128, 255, 0.85), rgba(86, 67, 250, 0.85));
+    color: #fff;
+  }
+  
+  .buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+  }
+  
+  .getStarted {
+    margin: 0 0.5rem;
+  }
+  
+  /* If you have a logo or some images, you might want to add some style for them as well */
+  .logo {
+    max-width: 400px;
+    margin: 2rem 0;
+  }
+  

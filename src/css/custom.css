@@ -1,0 +1,11 @@
+/* Override the main content background color */
+.main-content {
+    background-color: lavender;
+  }
+  
+  /* Add a custom class for special highlighted text */
+  .special-text {
+    color: red;
+    font-weight: bold;
+  }
+  
